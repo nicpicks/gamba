@@ -1,0 +1,1 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b2aef43c-f278-4cb9-9678-e1c5ff47e53c/deploy-status)](https://app.netlify.com/sites/nicpicks-jackpot/deploys)
