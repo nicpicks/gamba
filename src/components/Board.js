@@ -35,7 +35,7 @@ export default function Board({ setIsJackpot }) {
             <div className={`grid gap-2 p-5 ${boardLayout}`}>
                 {board.map((value, index) => {
                     return (
-                        <div className="w-full h-36 grid place-content-center"
+                        <div className="w-full h-28 grid place-content-center"
                             key={index}
                             onClick={() => handleClick(index)}
                         >
